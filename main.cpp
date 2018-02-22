@@ -18,6 +18,7 @@ private:
 int main()
 {
 
+	std::cout<<"bylech tu"<<std::endl;
     C(2);
 
 }
